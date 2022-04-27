@@ -1,7 +1,9 @@
-# Repositório do Desafio de Projeto sobre Git/GitHub da Dio
+#Repositório do desafio de Projeto sobre Git/GitHub da Dio
 Desafio de Projeto sobre Git/GitHub da Vanessa
 
-##Links úteis
+##Links Úteis
+
+
 
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
